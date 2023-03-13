@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "resources/selenium-server-4.8.1.jar",
+        "src/resources/selenium-server-4.8.1.jar"
+    ]
+}
